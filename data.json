@@ -1,62 +1,185 @@
 [
     {
-        "id": 46464464654,
-        "name": "قهوة باردة",
-        "products": [
-            {
-                "id": "0abe0dd8-9be2-4950-af0d-d663d62d85fe",
-                "title": "fgfg",
-                "price": "5500",
-                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/889ad8cac9f4718793fb9837ad05259661d6c07b-1280x853.jpg"
-            },
-            {
-                "id": "40b6455e-a2c9-4f82-84c9-f771ea2e2627",
-                "title": "Blueberry Coffee",
-                "price": "15000",
-                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/736a077c80297afa3829660acaf569ea07a3ecf8-1280x853.jpg"
-            },
-            {
-                "id": "d17473b8-0421-4966-b280-fc5b1326c2ff",
-                "title": "Chocolate Mint",
-                "price": "5500",
-                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/a11c0f9beef7b13406f8c142382b1258083f2a49-1280x853.jpg"
-            },
-            {
-                "id": "d738be33-5c35-414a-bd5e-f91c93359e44",
-                "title": "White Chocolate Raspberry",
-                "price": "15600",
-                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/0f91cd745832b96093efe5af1e8a5ceb9a64de99-1280x853.jpg"
-            }
-        ]
+        "id": "10706e72-5aa9-4972-a1b0-ab74d51e220f",
+        "createdAt": "2023-05-21T13:29:26.545Z",
+        "updatedAt": "2023-05-21T13:29:26.545Z",
+        "deletedAt": null,
+        "name": "Product Category 1",
+        "order": 1,
+        "assetId": null,
+        "products": [],
+        "asset": null
     },
     {
-        "id": "6ds4a65d456as4d64as",
-        "name": "حلويات",
+        "id": "0848526a-0ec1-443c-981c-42a3b54b6131",
+        "createdAt": "2023-05-21T13:30:21.555Z",
+        "updatedAt": "2023-05-21T13:30:21.555Z",
+        "deletedAt": null,
+        "name": "Product Category 1",
+        "order": 1,
+        "assetId": "ff1897c2-5801-438d-ac67-6e51d5966fd9",
+        "products": [],
+        "asset": {
+            "id": "ff1897c2-5801-438d-ac67-6e51d5966fd9",
+            "createdAt": "2023-05-21T13:30:21.555Z",
+            "updatedAt": "2023-05-21T13:30:21.555Z",
+            "deletedAt": null,
+            "title": "Asset 1",
+            "order": 1,
+            "mimeType": "image/jpeg",
+            "sizesUrls": {
+                "360": "uploads\\products-categories\\undefined\\360\\1684569102099-241366117.jpg",
+                "480": "uploads\\products-categories\\undefined\\480\\1684569102099-241366117.jpg",
+                "720": "uploads\\products-categories\\undefined\\720\\1684569102099-241366117.jpg"
+            }
+        }
+    },
+    {
+        "id": "56b24412-c1d4-4a7a-9a46-bb82345facb3",
+        "createdAt": "2023-05-21T13:30:41.281Z",
+        "updatedAt": "2023-05-21T13:30:41.281Z",
+        "deletedAt": null,
+        "name": "Product Category 1",
+        "order": 1,
+        "assetId": "bead4062-284b-4773-98f9-719149c45571",
         "products": [
             {
-                "id": "0abe0dd8-9be2-4950-af0d-d663d62d85fe",
-                "title": "fgfg",
-                "price": "5500",
-                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/889ad8cac9f4718793fb9837ad05259661d6c07b-1280x853.jpg"
+                "id": "d579235e-1393-4a9c-930e-803f4b99f693",
+                "createdAt": "2023-05-21T15:54:50.696Z",
+                "updatedAt": "2023-05-21T15:54:50.696Z",
+                "deletedAt": null,
+                "name": "Product 1",
+                "price": "1000.00",
+                "details": "test, test ,test",
+                "productCategoryId": "56b24412-c1d4-4a7a-9a46-bb82345facb3",
+                "assetId": "8e2d13a9-5553-45cc-a44a-a638c18ec762",
+                "asset": {
+                    "id": "8e2d13a9-5553-45cc-a44a-a638c18ec762",
+                    "createdAt": "2023-05-21T15:54:50.696Z",
+                    "updatedAt": "2023-05-21T15:54:50.696Z",
+                    "deletedAt": null,
+                    "title": "Asset 1",
+                    "order": 1,
+                    "mimeType": "image/jpeg",
+                    "sizesUrls": {
+                        "360": "uploads\\products\\d579235e-1393-4a9c-930e-803f4b99f693\\360\\1684569102099-241366117.jpg",
+                        "480": "uploads\\products\\d579235e-1393-4a9c-930e-803f4b99f693\\480\\1684569102099-241366117.jpg",
+                        "720": "uploads\\products\\d579235e-1393-4a9c-930e-803f4b99f693\\720\\1684569102099-241366117.jpg"
+                    }
+                }
             },
             {
-                "id": "40b6455e-a2c9-4f82-84c9-f771ea2e2627",
-                "title": "Blueberry Coffee",
-                "price": "15000",
-                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/736a077c80297afa3829660acaf569ea07a3ecf8-1280x853.jpg"
+                "id": "04a7d244-1be3-47ea-9b1e-b2866426aff0",
+                "createdAt": "2023-05-21T16:51:40.716Z",
+                "updatedAt": "2023-05-21T16:51:40.716Z",
+                "deletedAt": null,
+                "name": "Product 2",
+                "price": "1000.00",
+                "details": "test, test ,test",
+                "productCategoryId": "56b24412-c1d4-4a7a-9a46-bb82345facb3",
+                "assetId": "e2ec3bbc-5586-43dc-883e-19cb7a55e628",
+                "asset": {
+                    "id": "e2ec3bbc-5586-43dc-883e-19cb7a55e628",
+                    "createdAt": "2023-05-21T16:51:40.716Z",
+                    "updatedAt": "2023-05-21T16:51:40.716Z",
+                    "deletedAt": null,
+                    "title": "Asset 2",
+                    "order": 1,
+                    "mimeType": "image/jpeg",
+                    "sizesUrls": {
+                        "360": "uploads\\products\\04a7d244-1be3-47ea-9b1e-b2866426aff0\\360\\1684569102099-241366117.jpg",
+                        "480": "uploads\\products\\04a7d244-1be3-47ea-9b1e-b2866426aff0\\480\\1684569102099-241366117.jpg",
+                        "720": "uploads\\products\\04a7d244-1be3-47ea-9b1e-b2866426aff0\\720\\1684569102099-241366117.jpg"
+                    }
+                }
             },
             {
-                "id": "d17473b8-0421-4966-b280-fc5b1326c2ff",
-                "title": "Chocolate Mint",
-                "price": "5500",
-                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/a11c0f9beef7b13406f8c142382b1258083f2a49-1280x853.jpg"
-            },
-            {
-                "id": "d738be33-5c35-414a-bd5e-f91c93359e44",
-                "title": "White Chocolate Raspberry",
-                "price": "15600",
-                "thumbnail": "https://cdn.sanity.io/images/b9ol14x2/production/0f91cd745832b96093efe5af1e8a5ceb9a64de99-1280x853.jpg"
+                "id": "4aa305a3-c4de-4354-bd76-2657ea8477af",
+                "createdAt": "2023-05-21T16:51:45.406Z",
+                "updatedAt": "2023-05-21T16:51:45.406Z",
+                "deletedAt": null,
+                "name": "Product 2",
+                "price": "1000.00",
+                "details": "test, test ,test",
+                "productCategoryId": "56b24412-c1d4-4a7a-9a46-bb82345facb3",
+                "assetId": "f25b12b6-2ab7-4ccc-bf47-93c4b87de109",
+                "asset": {
+                    "id": "f25b12b6-2ab7-4ccc-bf47-93c4b87de109",
+                    "createdAt": "2023-05-21T16:51:45.406Z",
+                    "updatedAt": "2023-05-21T16:51:45.406Z",
+                    "deletedAt": null,
+                    "title": "Asset 2",
+                    "order": 1,
+                    "mimeType": "image/jpeg",
+                    "sizesUrls": {
+                        "360": "uploads\\products\\4aa305a3-c4de-4354-bd76-2657ea8477af\\360\\1684569102099-241366117.jpg",
+                        "480": "uploads\\products\\4aa305a3-c4de-4354-bd76-2657ea8477af\\480\\1684569102099-241366117.jpg",
+                        "720": "uploads\\products\\4aa305a3-c4de-4354-bd76-2657ea8477af\\720\\1684569102099-241366117.jpg"
+                    }
+                }
             }
-        ]
+        ],
+        "asset": {
+            "id": "bead4062-284b-4773-98f9-719149c45571",
+            "createdAt": "2023-05-21T13:30:41.281Z",
+            "updatedAt": "2023-05-21T13:30:41.281Z",
+            "deletedAt": null,
+            "title": "Asset 1",
+            "order": 1,
+            "mimeType": "image/jpeg",
+            "sizesUrls": {
+                "360": "uploads\\products-categories\\56b24412-c1d4-4a7a-9a46-bb82345facb3\\360\\1684569102099-241366117.jpg",
+                "480": "uploads\\products-categories\\56b24412-c1d4-4a7a-9a46-bb82345facb3\\480\\1684569102099-241366117.jpg",
+                "720": "uploads\\products-categories\\56b24412-c1d4-4a7a-9a46-bb82345facb3\\720\\1684569102099-241366117.jpg"
+            }
+        }
+    },
+    {
+        "id": "a66319c9-54c8-49f8-8820-c9c22aaf624c",
+        "createdAt": "2023-05-21T15:53:18.260Z",
+        "updatedAt": "2023-05-21T15:53:18.260Z",
+        "deletedAt": null,
+        "name": "Product Category 2",
+        "order": 1,
+        "assetId": "d14f04f7-e2e6-4adf-a1a4-5cd757879541",
+        "products": [],
+        "asset": {
+            "id": "d14f04f7-e2e6-4adf-a1a4-5cd757879541",
+            "createdAt": "2023-05-21T15:53:18.260Z",
+            "updatedAt": "2023-05-21T15:53:18.260Z",
+            "deletedAt": null,
+            "title": "Asset 2",
+            "order": 1,
+            "mimeType": "image/jpeg",
+            "sizesUrls": {
+                "360": "uploads\\products-categories\\a66319c9-54c8-49f8-8820-c9c22aaf624c\\360\\1684569102099-241366117.jpg",
+                "480": "uploads\\products-categories\\a66319c9-54c8-49f8-8820-c9c22aaf624c\\480\\1684569102099-241366117.jpg",
+                "720": "uploads\\products-categories\\a66319c9-54c8-49f8-8820-c9c22aaf624c\\720\\1684569102099-241366117.jpg"
+            }
+        }
+    },
+    {
+        "id": "1f23e151-2e62-44d7-8a56-ad5afdf70fdc",
+        "createdAt": "2023-05-21T15:54:04.390Z",
+        "updatedAt": "2023-05-21T15:54:04.390Z",
+        "deletedAt": null,
+        "name": "Product Category 2",
+        "order": 1,
+        "assetId": "328ae9bf-7d7b-40f8-ac5d-fba19608e7c4",
+        "products": [],
+        "asset": {
+            "id": "328ae9bf-7d7b-40f8-ac5d-fba19608e7c4",
+            "createdAt": "2023-05-21T15:54:04.390Z",
+            "updatedAt": "2023-05-21T15:54:04.390Z",
+            "deletedAt": null,
+            "title": "Asset 2",
+            "order": 1,
+            "mimeType": "image/jpeg",
+            "sizesUrls": {
+                "360": "uploads\\products-categories\\1f23e151-2e62-44d7-8a56-ad5afdf70fdc\\360\\1684569102099-241366117.jpg",
+                "480": "uploads\\products-categories\\1f23e151-2e62-44d7-8a56-ad5afdf70fdc\\480\\1684569102099-241366117.jpg",
+                "720": "uploads\\products-categories\\1f23e151-2e62-44d7-8a56-ad5afdf70fdc\\720\\1684569102099-241366117.jpg"
+            }
+        }
     }
 ]
