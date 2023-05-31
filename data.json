@@ -181,5 +181,38 @@
                 "720": "uploads\\products-categories\\1f23e151-2e62-44d7-8a56-ad5afdf70fdc\\720\\1684569102099-241366117.jpg"
             }
         }
-    }
+    },{
+        "id": "56b24412-c1d4-4a7a-9a46-bb82345facb3",
+        "createdAt": "2023-05-21T13:30:41.281Z",
+        "updatedAt": "2023-05-21T13:30:41.281Z",
+        "deletedAt": null,
+        "name": "Product Category 4",
+        "order": 1,
+        "assetId": "bead4062-284b-4773-98f9-719149c45571",
+        "products": [
+            {
+                "id": "d579235e-1393-4a9c-930e-803f4b99f693",
+                "createdAt": "2023-05-21T15:54:50.696Z",
+                "updatedAt": "2023-05-21T15:54:50.696Z",
+                "deletedAt": null,
+                "name": "Product 8",
+                "price": "1000.00",
+                "details": "test, test ,test",
+                "productCategoryId": "56b24412-c1d4-4a7a-9a46-bb82345facb3",
+                "assetId": "8e2d13a9-5553-45cc-a44a-a638c18ec762",
+                "asset": {
+                    "id": "8e2d13a9-5553-45cc-a44a-a638c18ec762",
+                    "createdAt": "2023-05-21T15:54:50.696Z",
+                    "updatedAt": "2023-05-21T15:54:50.696Z",
+                    "deletedAt": null,
+                    "title": "Asset 1",
+                    "order": 1,
+                    "mimeType": "image/jpeg",
+                    "sizesUrls": {
+                        "360": "uploads\\products\\d579235e-1393-4a9c-930e-803f4b99f693\\360\\1684569102099-241366117.jpg",
+                        "480": "uploads\\products\\d579235e-1393-4a9c-930e-803f4b99f693\\480\\1684569102099-241366117.jpg",
+                        "720": "uploads\\products\\d579235e-1393-4a9c-930e-803f4b99f693\\720\\1684569102099-241366117.jpg"
+                    }
+                }
+            }
 ]
