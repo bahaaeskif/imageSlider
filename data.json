@@ -117,23 +117,7 @@
                         "720": "uploads\\products\\4aa305a3-c4de-4354-bd76-2657ea8477af\\720\\1684569102099-241366117.jpg"
                     }
                 }
-            }
-        ],
-        "asset": {
-            "id": "bead4062-284b-4773-98f9-719149c45571",
-            "createdAt": "2023-05-21T13:30:41.281Z",
-            "updatedAt": "2023-05-21T13:30:41.281Z",
-            "deletedAt": null,
-            "title": "Asset 1",
-            "order": 1,
-            "mimeType": "image/jpeg",
-            "sizesUrls": {
-                "360": "uploads\\products-categories\\56b24412-c1d4-4a7a-9a46-bb82345facb3\\360\\1684569102099-241366117.jpg",
-                "480": "uploads\\products-categories\\56b24412-c1d4-4a7a-9a46-bb82345facb3\\480\\1684569102099-241366117.jpg",
-                "720": "uploads\\products-categories\\56b24412-c1d4-4a7a-9a46-bb82345facb3\\720\\1684569102099-241366117.jpg"
-            }
-        }
-    },
+            },
     {
         "id": "a66319c9-54c8-49f8-8820-c9c22aaf624c",
         "createdAt": "2023-05-21T15:53:18.260Z",
