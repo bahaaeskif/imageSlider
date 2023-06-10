@@ -1,30 +1,4 @@
 [
-            {
-                "id": "4aa305a3-c4de-4354-bd76-2657ea8477af",
-                "createdAt": "2023-05-21T16:51:45.406Z",
-                "updatedAt": "2023-05-21T16:51:45.406Z",
-                "deletedAt": null,
-                "name": "Product 2",
-                "price": "1000.00",
-                "details": "test, test ,test",
-                "productCategoryId": "56b24412-c1d4-4a7a-9a46-bb82345facb3",
-                "assetId": "f25b12b6-2ab7-4ccc-bf47-93c4b87de109",
-                "asset": {
-                    "id": "f25b12b6-2ab7-4ccc-bf47-93c4b87de109",
-                    "createdAt": "2023-05-21T16:51:45.406Z",
-                    "updatedAt": "2023-05-21T16:51:45.406Z",
-                    "deletedAt": null,
-                    "title": "Asset 2",
-                    "order": 1,
-                    "mimeType": "image/jpeg",
-                    "sizesUrls": {
-                        "360": "uploads\\products\\4aa305a3-c4de-4354-bd76-2657ea8477af\\360\\1684569102099-241366117.jpg",
-                        "480": "uploads\\products\\4aa305a3-c4de-4354-bd76-2657ea8477af\\480\\1684569102099-241366117.jpg",
-                        "720": "uploads\\products\\4aa305a3-c4de-4354-bd76-2657ea8477af\\720\\1684569102099-241366117.jpg"
-                    }
-                }
-            },
-   
     {
         "id": "1f23e151-2e62-44d7-8a56-ad5afdf70fdc",
         "createdAt": "2023-05-21T15:54:04.390Z",
