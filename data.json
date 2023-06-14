@@ -7,7 +7,31 @@
         "name": "Product Category 2",
         "order": 1,
         "assetId": "328ae9bf-7d7b-40f8-ac5d-fba19608e7c4",
-        "products": [],
+        "products": [{
+    "id": "b020655f-32e0-4072-89fb-bd1ef0dc321f",
+    "createdAt": "2023-05-31T17:38:56.465Z",
+    "updatedAt": "2023-05-31T17:39:37.052Z",
+    "deletedAt": null,
+    "name": "PISTACHIO CAKE",
+    "price": "15000.00",
+    "details": "شوكولا",
+    "productCategoryId": "64738833-d4a3-4243-8f85-9c002b321828",
+    "assetId": "ee229842-7a78-45fa-ac0e-75f73832486f",
+    "asset": {
+        "id": "ee229842-7a78-45fa-ac0e-75f73832486f",
+        "createdAt": "2023-05-31T17:38:56.465Z",
+        "updatedAt": "2023-05-31T17:38:56.465Z",
+        "deletedAt": null,
+        "title": "PISTACHIO CAKE",
+        "order": 1,
+        "mimeType": "image/jpeg",
+        "sizesUrls": {
+            "360": "uploads\\products\\b020655f-32e0-4072-89fb-bd1ef0dc321f\\360\\1685554719435-125465757.jpg",
+            "480": "uploads\\products\\b020655f-32e0-4072-89fb-bd1ef0dc321f\\480\\1685554719435-125465757.jpg",
+            "720": "uploads\\products\\b020655f-32e0-4072-89fb-bd1ef0dc321f\\720\\1685554719435-125465757.jpg"
+        }
+    }
+}],
         "asset": {
             "id": "328ae9bf-7d7b-40f8-ac5d-fba19608e7c4",
             "createdAt": "2023-05-21T15:54:04.390Z",
